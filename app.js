@@ -47,6 +47,8 @@ app.get('/data-files', (req, res) => {
 app.post('/read-ai-webhook', (req, res) => {
   const data = req.body;
 
+  console.log("recieved data", JSON.stringify(data));
+
   const trigger = data.trigger;
   const session_id = data.session_id;
   const title = data.title;

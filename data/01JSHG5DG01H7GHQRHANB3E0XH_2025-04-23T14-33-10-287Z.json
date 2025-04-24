@@ -1,0 +1,31 @@
+{
+  "session_id": "01JSHG5DG01H7GHQRHANB3E0XH",
+  "trigger": "meeting_end",
+  "title": "Meet Meeting",
+  "start_time": "2025-04-23T19:48:15+05:30",
+  "end_time": "2025-04-23T19:48:24+05:30",
+  "participants": [
+    {
+      "name": "Mohammadraza Bhojani",
+      "first_name": "Mohammadraza",
+      "last_name": "Bhojani",
+      "email": "mohammadrazab@thirdrocktechkno.com"
+    }
+  ],
+  "owner": {
+    "name": "Mohammadraza Bhojani",
+    "first_name": "Mohammadraza",
+    "last_name": "Bhojani",
+    "email": "mohammadrazab@thirdrocktechkno.com"
+  },
+  "summary": "No summary available due to limited meeting data.",
+  "action_items": [],
+  "key_questions": [],
+  "topics": [],
+  "report_url": "https://app.read.ai/analytics/meetings/01JSHG5DG01H7GHQRHANB3E0XH",
+  "chapter_summaries": [],
+  "transcript": {
+    "speaker_blocks": [],
+    "speakers": []
+  }
+}
